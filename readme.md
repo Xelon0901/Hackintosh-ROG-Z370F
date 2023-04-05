@@ -11,7 +11,7 @@
 | Hackintosh | 配置单 |
 |---|---|
 |  CPU | Intel i7 9850HK（理论上所有8、9代CPU即coffee lake架构都可使用） |
-|  GPU | POWERCOLOR RX5600XT |
+|  GPU | POWERCOLOR RX5600XT 6G|
 |  主板 | ASUS ROG Z370F（Z370芯片组） |
 |  内存 | CUSO 2666Mhz 8G X2 |
 |  机型 | iMac Pro 2017 |
@@ -30,7 +30,8 @@
 * Security • Secure Boot = Disabled
 
 ## 截图预览
-<img width="2048" alt="截屏2022-06-20 14 05 02" src="https://user-images.githubusercontent.com/91834755/174536899-1b263bb4-19b5-4b79-9cbc-6099d94d5125.png">
+<img width="2048" alt="截屏2023-04-05 13 20 55" src="https://user-images.githubusercontent.com/91834755/229987997-2150c3d5-380b-4c3d-aaf1-59a3fcfe3903.png">
+
 
 
 
